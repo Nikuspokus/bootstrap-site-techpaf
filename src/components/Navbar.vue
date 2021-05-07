@@ -10,17 +10,17 @@
         <b-dropdown-item href="#">RU</b-dropdown-item>
         <b-dropdown-item href="#">FA</b-dropdown-item>
       </b-nav-item-dropdown>
+      <spacer/>
+    </b-navbar-nav>
 
+    <div >
       <b-nav-item-dropdown text="User" right>
         <b-dropdown-item href="#">Account</b-dropdown-item>
         <b-dropdown-item href="#">Settings</b-dropdown-item>
       </b-nav-item-dropdown>
-    </b-navbar-nav>
-
-    <div class="d-flex align-items-center">
-      <b-form-input class="mr-sm-2" placeholder="Search"></b-form-input>
+      <!-- <b-form-input class="mr-sm-2" placeholder="Search"></b-form-input>
       <b-button variant="outline-success" class="my-2 my-sm-0" type="submit"
-        >Search</b-button
+        >Search</b-button -->
       >
     </div>
   </b-navbar>
