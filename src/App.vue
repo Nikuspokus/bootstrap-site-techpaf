@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Carousel />
     <Navbar />
     <router-view />
   </div>
@@ -8,10 +9,12 @@
 
 <script>
 import Navbar from './components/Navbar'
+import Carousel from './components/Carousel'
 
 export default {
   components: {
-    Navbar,
+    Carousel,
+    Navbar
   }
 }
 </script>

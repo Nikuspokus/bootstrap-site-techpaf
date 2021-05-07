@@ -13,7 +13,7 @@
       <spacer/>
     </b-navbar-nav>
 
-    <div >
+    <div class="d-flex align-items-center">
       <b-nav-item-dropdown text="User" right>
         <b-dropdown-item href="#">Account</b-dropdown-item>
         <b-dropdown-item href="#">Settings</b-dropdown-item>
