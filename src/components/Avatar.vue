@@ -1,5 +1,5 @@
 <template>
-  <div class="border" style="margin-left: 10px">
+  <div class="" style="margin-left: 10px">
       <div class="m-2">
 
       <b-avatar
