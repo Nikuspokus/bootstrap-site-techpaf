@@ -4,7 +4,7 @@
     <p class="text-style container">
       Vous trouverez ici des réponses à toutes vos questions sur les plateformes
       d'apprentissage en ligne: le répertoire de tutos le plus approfondi sur
-      les MOOC.Explorez divers sujets traités par nos experts en
+      les MOOC. Explorez divers sujets traités par nos experts en
       apprentissage en ligne et obtenez d'excellents résultats. Vous trouverez
       ici toutes les réponses dont vous avez besoin pour un développement rapide
       de vos compétences!
