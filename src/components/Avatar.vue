@@ -6,7 +6,7 @@
         variant="info"
         src="https://placekitten.com/300/300"
       ></b-avatar>
-      <span class="ajustl">Super Kittydfgdfgdfg</span>
+      <span class="ajustl">Nicolas Marquillier</span>
       </div>
   </div>
 </template>
